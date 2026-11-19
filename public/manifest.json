@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "TeachLearn Edu - Hệ thống Dạy & Học Toán THPT",
+  "short_name": "TeachLearn Edu",
+  "description": "Hệ thống Dạy & Học Toán THPT · THPT Lê Quý Đôn — Hỗ trợ Giảng dạy, Soạn đề & Khảo thí chuẩn GDPT 2018.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0284C7",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

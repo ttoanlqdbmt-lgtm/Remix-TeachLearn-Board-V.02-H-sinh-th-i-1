@@ -1,0 +1,10 @@
+{
+  "name": "Remix TeachLearn Board V.02 Hệ sinh thái 1",
+  "description": "TeachLearn Board Tương Tác nâng cấp ",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
